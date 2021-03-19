@@ -1,5 +1,5 @@
 # Tetris-Game
-I made a Tetris Game to a SOFT336SL Cross Platform Application Development in C++ module coursework which was Implemented using Qt.
+BSc(Hons)Software Engineering - Cross-Platform Development in C++ Using QT
 
 Documentation of this Game:
 [Documentation (Tetris Game).pdf](https://github.com/Hiruni98/Tetris-Game/files/6171368/Part.II.-.Documentation.Tetris.Game.pdf)
